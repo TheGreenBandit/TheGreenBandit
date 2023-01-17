@@ -6,17 +6,9 @@
 <p align="center"I figure shit out so it works sometimes, sorta new and sorta shit at coding.</p>
 
 <div align="center">
-    <p>Contact Me At</p>
-    <p>_____________</p>
-    <p>\___________/</p>
-    <p> \_________/</p>
-    <p>  \_______/</p>
-    <p>   \_____/</p>
-    <p>    \___/</p>
-    <p>     \_/</p>
-    <p>The Green Bandit#0038</p>
-    <br>
-    <img src="https://img.shields.io/github/last-commit/YimMenu/YimMenu" alt="GitHub last commit"/>
-    <img src="https://img.shields.io/github/commit-activity/w/TheGreenBandit/UND34DV2" alt="GitHub commit activity"/>
+    <p>Contact Me On Discord As: The Green Bandit#0038</p>
+    <br>    
+    <p>Stars On My Projects</p>
+    <img src="https://img.shields.io/github/stars/TheGreenBandit?style=social" alt="GitHub Stars On My Projects"/>
     <br>
 </div>
