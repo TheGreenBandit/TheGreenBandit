@@ -3,15 +3,20 @@
 </p>
 
 <h1 align="center">The Green Bandit</h1>
-<p align="center">I figure shit out so it works sometimes, sorta new and sorta shit at coding.</p>
+<p align="center"I figure shit out so it works sometimes, sorta new and sorta shit at coding.</p>
 
-//<div align="center">
-//   <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
-//    <br>
-//    <img src="https://img.shields.io/github/last-commit/MeteorDevelopment/meteor-client" alt="GitHub last commit"/>
-//    <img src="https://img.shields.io/github/commit-activity/w/MeteorDevelopment/meteor-client" alt="GitHub commit activity"/>
-//    <img src="https://img.shields.io/github/contributors/MeteorDevelopment/meteor-client" alt="GitHub contributors"/>
-//    <br>
-//    <img src="https://img.shields.io/github/languages/code-size/MeteorDevelopment/meteor-client" alt="GitHub code size in bytes"/>
-//    <img src="https://tokei.rs/b1/github/MeteorDevelopment/meteor-client" alt="GitHub lines of code"/>
+<div align="center">
+    <p>Contact Me At</p>
+    <p>_____________</p>
+    <p>\___________/</p>
+    <p> \_________/</p>
+    <p>  \_______/</p>
+    <p>   \_____/</p>
+    <p>    \___/</p>
+    <p>     \_/</p>
+    <p>The Green Bandit#0038</p>
+    <br>
+    <img src="https://img.shields.io/github/last-commit/YimMenu/YimMenu" alt="GitHub last commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/TheGreenBandit/UND34DV2" alt="GitHub commit activity"/>
+    <br>
 </div>
