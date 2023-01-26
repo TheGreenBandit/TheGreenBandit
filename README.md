@@ -7,6 +7,7 @@
 
 <div align="center">
     <p>Contact Me On Discord As: The Green Bandit#0038</p>
+    <p>Or Join My Server Here -> https://discord.gg/7KvdYNQHvf </p>
     <br>    
     <p>Stars On My Projects</p>
     <img src="https://img.shields.io/github/stars/TheGreenBandit?style=social" alt="GitHub Stars On My Projects"/>
