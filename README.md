@@ -12,4 +12,5 @@
     <p>Stars On My Projects</p>
     <img src="https://img.shields.io/github/stars/TheGreenBandit?style=social" alt="GitHub Stars On My Projects"/>
     <br>
+    <p>#Please do not contact me to make you a paid menu.</p>
 </div>
