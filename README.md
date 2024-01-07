@@ -9,5 +9,4 @@
     <p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TheGreenBandit&show_icons=true&title_color=39&icon_color=39&text_color=12&bg_color=12">
         <br>  </br>
-    <p>Please do not contact me in my dms or my server to make you a paid menu. I will immediately block and ban you from my server.</p>
 </div>
