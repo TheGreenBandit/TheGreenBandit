@@ -6,7 +6,7 @@
 <p align="center"I figure shit out so it works sometimes.</p>
 <div align="center">
     <p>Contact Me On Discord As: thegreenbandit</p>
-    <p align="center">
+    <p>Or Join My Server -> https://discord.gg/cMMwtUQhpE</p>
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TheGreenBandit&show_icons=true&title_color=39&icon_color=39&text_color=12&bg_color=12">
         <br>  </br>
 </div>
