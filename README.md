@@ -6,6 +6,7 @@
 <p align="center"I figure shit out so it works sometimes.</p>
 <div align="center">
     <p>Contact Me On Discord As: thegreenbandit</p>
+    <p>I have experience with c++ and c#, i have made menus for gtav, content warning, and lethal company. i am looking to foward my progress in reverse engineering so if anyone has insight contact me below.</p>
     <p>Or Join My Server -> https://discord.gg/cMMwtUQhpE</p>
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TheGreenBandit&show_icons=true&title_color=39&icon_color=39&text_color=12&bg_color=12">
         <br>  </br>
